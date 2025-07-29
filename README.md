@@ -37,6 +37,9 @@ Sinta-se à vontade para me chamar para conversar sobre projetos, colaborações
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
-  Feito com ❤️ por Anna Clara
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipesora&show_icons=true&theme=github_dark&hide_title=true&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipesora&theme=github-dark&hide_border=true" />
 </p>
