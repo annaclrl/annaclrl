@@ -31,10 +31,13 @@ Tenho facilidade para trabalhar em equipe, resolver problemas de forma criativa 
 
 ---
 
-## 🤝 Vamos nos conectar?
+## 📊 GitHub Stats
 
-Sinta-se à vontade para me chamar para conversar sobre projetos, colaborações ou tecnologia em geral!
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=annaclrl&show_icons=true&theme=github_dark&hide_title=true&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=annaclrl&theme=github-dark&hide_border=true" />
+</p>
 
----
+
 
 
